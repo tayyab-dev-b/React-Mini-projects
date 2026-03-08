@@ -31,6 +31,28 @@ npm run dev
 
 [View Project README](./01-random-quote-generator/README.md) | [Live Demo](#) (coming soon)
 
+### 02 - Simple Counter Dashboard
+[![React](https://img.shields.io/badge/React-19.2.0-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.2.4-purple.svg)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2.1-38B2AC.svg)](https://tailwindcss.com/)
+
+A lightweight React dashboard that renders three counter cards with action buttons for increment, decrement, and reset interactions.
+
+**Features:**
+- Clean card-based counter UI
+- Reusable `Counter` component
+- Multi-card layout on a single page
+- Fast local development with Vite
+
+**Quick Start:**
+```bash
+cd 02-simple-counter-dashboard
+npm install
+npm run dev
+```
+
+[View Project README](./02-simple-counter-dashboard/README.md) | [Live Demo](#) (coming soon)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
