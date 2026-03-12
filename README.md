@@ -115,3 +115,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Vite for the amazing developer experience
 - Tailwind CSS for beautiful styling
 - Various APIs used in the projects
+
+
+
+### 03 - Simple change button theme Using Context api
+
+Global State Management: Uses createContext and useContext to manage theme state.
+
+Tailwind Integration: Smoothly toggles between light and dark modes using Tailwind utility classes.
+
+Persistent UI: Demonstrates how nested components can access and update global state without prop drilling.
+
+Modern UI: Clean, centered layout with a stylized toggle button.
+
+Quick Start:
+
+Bash
+cd 03-theme-toggler-context
+npm install
+npm run dev
+View Project README | Live Demo (coming soon)
